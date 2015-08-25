@@ -1,0 +1,21 @@
+<conf>
+		<directory_conf>
+			<romfile>
+				<directory location="C:\Users\Shoshanna\Desktop\roms" />
+			</romfile>
+			<recursion>true</recursion>
+			<downloads>true</downloads>
+			<skiphid>false</skiphid>
+		</directory_conf>
+		<social_conf>
+			<twitter_conf>
+				<pin></pin>
+				<user_id></user_id>
+				<screen_name></screen_name>
+				<token_id></token_id>
+				<token_secret></token_secret>
+				<allowgames>False</allowgames>
+				<allowinfo>True</allowinfo>
+			</twitter_conf>
+		</social_conf>
+</conf>
